@@ -11345,6 +11345,24 @@ textarea.form-control {
   border-width: 0;
 }
 
+.social-links {
+  justify-content: end;
+}
+
+.social-links a {
+  color: #fff;
+}
+
+.social-links a:hover {
+  color: #0b5062;
+  text-decoration: none;
+}
+
+.social-links a img {
+  height: 2rem;
+  width: auto;
+}
+
 .footer {
   display: -webkit-box;
   display: -ms-flexbox;
