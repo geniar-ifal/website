@@ -11766,3 +11766,8 @@ textarea.form-control {
   opacity: 1;
   visibility: visible;
 }
+
+.link-all-projects {
+  color: white !important;
+  cursor: pointer;
+}
