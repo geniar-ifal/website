@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta
+      name="description"
+      content="Start your development with LeadMark landing page."
+    />
+    <meta name="author" content="Devcrud" />
+    <title>Geniar - Projetos</title>
+    <!-- font icons -->
+    <link
+      rel="stylesheet"
+      href="../assets/vendors/themify-icons/css/themify-icons.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons/css/academicons.min.css"
+    />
+    <!-- Font Awesome -->
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css"
+      rel="stylesheet"
+    />
+    <!-- Bootstrap + LeadMark main styles -->
+    <link rel="stylesheet" href="../assets/css/leadmark.css" />
+    <link rel="stylesheet" href="../assets/css/sectionGallery.css" />
+    <link rel="stylesheet" href="../assets/css/sectionVideos.css" />
+  </head>
+  <body data-spy="scroll" data-target=".navbar" data-offset="40" id="home">
+    <!-- page Navigation -->
+    <nav
+      class="navbar custom-navbar navbar-expand-md navbar-light fixed-top"
+      data-spy="affix"
+      data-offset-top="-1"
+    >
+      <div class="container">
+        <a class="navbar-brand" href="../index.html">
+          <!-- <img src="../assets/imgs/logo.svg" alt=""> -->
+          <img src="../assets/imgs/logo_geniar.png" alt="" />
+        </a>
+        <button
+          class="navbar-toggler ml-auto"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="../index.html">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="../index.html#service">Área Atuação</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="../index.html#about">Sobre</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="../index.html#contact">Projetos</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="../index.html#portfolio">Parcerias</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="../members.html">Membros</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!-- End Of Second Navigation -->
+
+    <!-- Service Section -->
+    <section id="projects" class="section pt-8">
+      <div class="container">
+        <h6 class="section-title">IFAL Bootcamp: ideias inovadoras para jovens talentos</h6>
+
+        <div class="row justify-content-between mt-5">
+          <div class="col-md-6 pr-md-5 mb-4 mb-md-0 text-justify">
+            <p>
+              <strong>Descrição: </strong> O projeto teve como objeto o desenvolvimento de atividades que estimulassem e despertassem nos participantes o interesse por tecnologia a partir da participação em um Bootcamp com aplicação de metodologias ativas de aprendizagem. As atividades executadas durante o Bootcamp englobaram 4 temáticas principais, a saber, empreendedorismo e inovação, programação, internet das coisas e inteligência artificial. O Bootcamp foi dividido por semana, cada uma com um tópico específico. Devido a pandemia de Covid-19, a turma iniciada em Outubro de 2021 do Bootcamp (Escola Walter Doria) foi realizada de forma on-line e depois passou para o modelo presencial, trazendo a necessidade de mudanças no planejamento, sendo assim, o tópicos de robótica e internet das coisas, que necessitavam de equipamentos específicos (arduino e raspberry pi) foram removidos, mantendo os demais. O bootcamp foi planejado com a duração de 6 semanas.
+            </p>
+            <p><strong>Status: </strong> Finalizado.</p>
+            <p><strong>Categoria: </strong> Extensão e Capacitação.</p>
+            <p><strong>Modalidade: </strong> Projeto de Edital Externo.</p>
+            <p><strong>Orgão Financiador: </strong> SETEC - MEC.</p>
+            <p><strong>Total de recursos: </strong> R$ 67.056,00.</p>
+            <p>
+              <strong>Coordenador: </strong>
+              <a href="members.html#ricardo_ribeiro">Ricardo Ribeiro</a>
+            </p>
+            <p>
+              <strong>Coordenador: </strong
+              ><a href="members.html#priscylla_silva">Priscylla Silva</a>
+            </p>
+            <p>
+              <strong>Alunos integrantes: </strong>
+              <a href="members.html#">Kalline dos Santos Freitas</a>,
+              <a href="members.html#">Wanessa da Silva Lima</a>
+              <a href="members.html#">Bruno Ferreira Lima Cabral</a>
+              <a href="members.html#">Igor Santana Batista</a>
+              <a href="members.html#">Isaque Luiz do Nascimento</a>
+            </p>
+            <p>
+              <strong>Impacto: </strong>
+              <span class="badge badge-primary">24 escolas públicas</span>
+              <span class="badge badge-primary">204 estudantes impactos</span>
+              <span class="badge badge-primary">4 cursos ofertados</span>
+              <span class="badge badge-primary">10 turmas ofertadas</span>
+              <span class="badge badge-primary">1 artigo publicado</span>
+            </p>
+          </div>
+          <div class="col-md-6 pl-md-5">
+            <div class="row">
+              <img
+                src="../assets/imgs/projects/proj-bootcamp-2021/img_main.jpg"
+                alt=""
+                class="w-100 shadow-sm"
+              />
+            </div>
+          </div>
+        </div>
+
+        <h6 class="section-title mb-4 mt-4">Galeria</h6>
+        <div class="row">
+        <div class="col-md-4">
+          <div class="thumbnail">
+            <a href="#" target="_blank">
+              <img src="../assets/imgs/projects/proj-bootcamp-2021/img_1.jpg" alt="Lights" style="width:100%">
+            </a>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="thumbnail">
+            <a href="#" target="_blank">
+              <img src="../assets/imgs/projects/proj-bootcamp-2021/img_2.jpg" alt="Nature" style="width:100%">
+            </a>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="thumbnail">
+            <a href="/#" target="_blank">
+              <img src="../assets/imgs/projects/proj-bootcamp-2021/img_3.jpg" alt="Fjords" style="width:100%">
+            </a>
+          </div>
+        </div>
+      </div>
+
+        <h6 class="section-title mb-4 mt-4">Vídeos</h6>
+        <div>
+          <div class="center-video">
+            <div class="wrapper-video">
+              <div class="inner-video">
+                <a
+                  href="https://www.youtube.com/watch?v=nwTOMd0_dzU"
+                  target="_blank"
+                >
+                  <div class="card-video">
+                    <img
+                      src="https://i3.ytimg.com/vi/nwTOMd0_dzU/hqdefault.jpg"
+                    />
+                    <div class="content-video">
+                      <!-- <h1>Projeto</h1> -->
+                      <h3>
+                        Apresentação do Projeto
+                      </h3>
+                    </div>
+                  </div>
+                </a>
+                <a
+                  href="https://youtube.com/shorts/avrIT66too4?si=V_KiXLV6nO3OBW6x"
+                  target="_blank"
+                >
+                  <div class="card-video">
+                    <img
+                      src="https://i3.ytimg.com/vi/avrIT66too4/default.jpg"
+                    />
+                    <div class="content-video">
+                      <!-- <h1>Protótipo</h1> -->
+                      <h3>
+                        Caixa Teimosa
+                      </h3>
+                    </div>
+                  </div>
+                </a>
+                <a
+                  href="https://youtube.com/shorts/bhfTayT2sWg?si=eFRGSB0nIji7r28q"
+                  target="_blank"
+                >
+                  <div class="card-video">
+                    <img
+                      src="https://i3.ytimg.com/vi/bhfTayT2sWg/hqdefault.jpg"
+                    />
+                    <div class="content-video">
+                       <!-- <h1>Protótipo</h1> -->
+                      <h3>Montagem de Protótipo</h3>
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>
+
+            <div class="map-video">
+              <button class="active first"></button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End OF Service Section -->
+
+    <!-- Contact Section -->
+    <section id="contact" class="section has-img-bg pb-0">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-md-7 my-3">
+            <h6 class="mb-0">Email</h6>
+            <p class="mb-0">geniar at ifal dot edu dot br</p>
+            <p></p>
+          </div>
+          <div class="col-md-5">
+            <div class="social-links d-flex">
+              <a
+                class="mx-1 p-1"
+                href="https://www.instagram.com/geniarifal/"
+                target="_blank"
+                ><i class="fab fa-instagram fa-2x"></i
+              ></a>
+              <a
+                class="mx-1 p-1"
+                href="https://www.youtube.com/channel/UCTyrHtY5Oad5Tcm8Pr8_Cqg"
+                target="_blank"
+                ><i class="fab fa-youtube fa-2x"></i
+              ></a>
+              <a
+                class="mx-1 p-1"
+                href="https://www2.ifal.edu.br/"
+                target="_blank"
+              >
+                <img src="../assets/imgs/if.png" alt="LOGO IFAL" />
+              </a>
+            </div>
+          </div>
+        </div>
+        <!-- Page Footer -->
+        <footer class="mt-5 py-4 border-top border-secondary">
+          <p class="mb-0 small">
+            Copyright &copy; GENIAR
+            <script>
+              document.write(new Date().getFullYear());
+            </script>
+          </p>
+        </footer>
+        <!-- End of Page Footer -->
+      </div>
+    </section>
+
+    <!-- core  -->
+    <script src="../assets/vendors/jquery/jquery-3.4.1.js"></script>
+    <script src="../assets/vendors/bootstrap/bootstrap.bundle.js"></script>
+
+    <!-- bootstrap 3 affix -->
+    <script src="../assets/vendors/bootstrap/bootstrap.affix.js"></script>
+
+    <!-- Isotope -->
+    <script src="../assets/vendors/isotope/isotope.pkgd.js"></script>
+    <script src="../assets/js/carousel.js"></script>
+  </body>
+
+</html>
+
+
+
+
+
+
